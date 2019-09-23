@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://thoroebah.autofocals.vision/sitemap.xml
